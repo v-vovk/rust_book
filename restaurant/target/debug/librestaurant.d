@@ -1,0 +1,1 @@
+/Users/dev/projects/rust/rust_book/restaurant/target/debug/librestaurant.rlib: /Users/dev/projects/rust/rust_book/restaurant/src/front_of_house/hosting.rs /Users/dev/projects/rust/rust_book/restaurant/src/front_of_house.rs /Users/dev/projects/rust/rust_book/restaurant/src/lib.rs
